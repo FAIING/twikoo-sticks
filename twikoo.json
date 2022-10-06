@@ -243,7 +243,7 @@
 "Heybox":{
   "type":"image",
   "container":[
-    {"text":"HeyBox_微笑","icon":"<img src='https://cdn.leonus.cn/HeyBox/1.webp'>"},
+    {"text":"HeyBox_微笑","icon":"<img src='https://gitee.com/faikeung/jslivrcdn/raw/master/Heybox/1.png'>"},
     {"text":"HeyBox_开心","icon":"<img src='https://cdn.leonus.cn/HeyBox/2.webp'>"},
     {"text":"HeyBox_酷","icon":"<img src='https://cdn.leonus.cn/HeyBox/3.webp'>"},
     {"text":"HeyBox_滑稽","icon":"<img src='https://cdn.leonus.cn/HeyBox/4.webp'>"},
