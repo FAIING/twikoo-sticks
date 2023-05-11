@@ -943,6 +943,31 @@
 {"icon":"<img src=\"https://cdn.jsdelivr.net/gh/FAIING/twikoo-sticks@main/aru/306.gif\">","text":""}
 ]
   },
+"蛆音娘":{
+  "type":"image",
+  "container":[
+{"icon":"<img src=\"https://cdn.jsdelivr.net/gh/FAIING/twikoo-sticks@main/JYN/witty.jpeg\">","text":""},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/gh/FAIING/twikoo-sticks@main/JYN/watermaleon.jpeg\">","text":""},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/gh/FAIING/twikoo-sticks@main/JYN/speechless.jpeg\">","text":""},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/gh/FAIING/twikoo-sticks@main/JYN/sleep.jpeg\">","text":""},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/gh/FAIING/twikoo-sticks@main/JYN/shakinghead.jpeg\">","text":""},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/gh/FAIING/twikoo-sticks@main/JYN/scare.jpeg\">","text":""},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/gh/FAIING/twikoo-sticks@main/JYN/OK.jpeg\">","text":""},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/gh/FAIING/twikoo-sticks@main/JYN/maimeng.jpeg\">","text":""},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/gh/FAIING/twikoo-sticks@main/JYN/look.jpeg\">","text":""},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/gh/FAIING/twikoo-sticks@main/JYN/laughing.jpeg\">","text":""},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/gh/FAIING/twikoo-sticks@main/JYN/heng.jpeg\">","text":""},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/gh/FAIING/twikoo-sticks@main/JYN/hematemesis.jpeg\">","text":""},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/gh/FAIING/twikoo-sticks@main/JYN/fue.jpeg\">","text":""},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/gh/FAIING/twikoo-sticks@main/JYN/feizao.jpeg\">","text":""},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/gh/FAIING/twikoo-sticks@main/JYN/doubt.jpeg\">","text":""},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/gh/FAIING/twikoo-sticks@main/JYN/die.jpeg\">","text":""},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/gh/FAIING/twikoo-sticks@main/JYN/cry.jpeg\">","text":""},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/gh/FAIING/twikoo-sticks@main/JYN/angry.jpeg\">","text":""},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/gh/FAIING/twikoo-sticks@main/JYN/amazing.jpeg\">","text":""},
+{"icon":"<img src=\"https://cdn.jsdelivr.net/gh/FAIING/twikoo-sticks@main/JYN/1huaji.jpeg\">","text":""}
+]
+  },
 "猫羽雫":{
   "type":"image",
   "container":[
